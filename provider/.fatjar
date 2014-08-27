@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Aug 27 10:50:24 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=provider.jar
+manifest.mergeall=false
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|producer-interface.jar>
+includes=
